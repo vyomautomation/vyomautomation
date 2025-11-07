@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/vyomautomation/vyomautomation/main/vyom-logo.png" alt="Vyom Automation Logo" width="420">
 </p>
 
-<h1 align="center">🌌 Vyom Automation</h1>
-<h3 align="center">Innovation Without Boundaries</h3>
+<h3 align="center">🌌 Vyom Automation</h3>
+<h6 align="center">Innovation Without Boundaries</h6>
 
 ---
 
